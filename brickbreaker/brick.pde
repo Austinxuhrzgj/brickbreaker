@@ -1,3 +1,6 @@
+//randomize hit point
+//changing paddle and ball size 
+
 class Brick{
 
 
